@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="eng">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Radio</title>
+	<form method="post">
+		<input type="submit" name="submit" value="Start"><br />
+	</form>
+</html>
